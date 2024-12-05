@@ -35,9 +35,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@apollo/client@npm:3.11.10":
-  version: 3.11.10
-  resolution: "@apollo/client@npm:3.11.10"
+"@apollo/client@npm:3.12.1":
+  version: 3.12.1
+  resolution: "@apollo/client@npm:3.12.1"
   dependencies:
     "@graphql-typed-document-node/core": ^3.1.1
     "@wry/caches": ^1.0.0
@@ -68,7 +68,7 @@ __metadata:
       optional: true
     subscriptions-transport-ws:
       optional: true
-  checksum: fb0bdcbc6cd2411c5ecf74bfeaf9c31d60865b454b2cd0f08876597402d26bcb49facb273de152517f3faf2b21f0a8f06d628cc7130a7231624918c4fb99a6db
+  checksum: e0a4c653e7738357aa27287d64a62ccf0d82a20a01bba65ea875f4859e44bca6b61daadd411e6392219129648ab790639ac0780018bb7f83cc48a1595dc67f9a
   languageName: node
   linkType: hard
 
@@ -6827,7 +6827,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "portfolio@workspace:."
   dependencies:
-    "@apollo/client": 3.11.10
+    "@apollo/client": 3.12.1
     "@next/bundle-analyzer": 13.5.2
     "@types/node": 18.17.19
     "@types/react": 18.2.22
