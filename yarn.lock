@@ -6855,11 +6855,11 @@ __metadata:
     prettier-plugin-sort-json: 3.1.0
     react: 19.0.0
     react-dom: 19.0.0
-    react-intersection-observer: 9.14.0
+    react-intersection-observer: 9.14.1
     react-markdown: 9.0.1
     react-use: 17.6.0
     sass: 1.68.0
-    three: 0.171.0
+    three: 0.172.0
     typed-scss-modules: 7.1.4
     typescript: 5.2.2
     vanta: 0.5.24
@@ -7048,16 +7048,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-intersection-observer@npm:9.14.0":
-  version: 9.14.0
-  resolution: "react-intersection-observer@npm:9.14.0"
+"react-intersection-observer@npm:9.14.1":
+  version: 9.14.1
+  resolution: "react-intersection-observer@npm:9.14.1"
   peerDependencies:
     react: ^17.0.0 || ^18.0.0 || ^19.0.0
     react-dom: ^17.0.0 || ^18.0.0 || ^19.0.0
   peerDependenciesMeta:
     react-dom:
       optional: true
-  checksum: 6b6830dc8430f7a16306847e2a6a81455df1089d0cf972d405f02e2e334137db09fe4ceb5886f068f4c89386ae5b8f00aa4ae877e2b531f8a7ed2fca9ee78851
+  checksum: 99aace763dbb2d43c4b7c8131cf2f9b826022690c7049da148d4f921d58680d9e7556b32a488af6d277134eb89e1ae75bd9913fae1b04002cacda371f83c26da
   languageName: node
   linkType: hard
 
@@ -8340,10 +8340,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"three@npm:0.171.0":
-  version: 0.171.0
-  resolution: "three@npm:0.171.0"
-  checksum: a257fdcef2e363644237d325278187d77ea9285c095ea0db6f8d6f5ef37cd3866c634b8395ad3f4313a5ad15d21c3aebfe444c2a1a9beb702e9f4b2a793b5053
+"three@npm:0.172.0":
+  version: 0.172.0
+  resolution: "three@npm:0.172.0"
+  checksum: 2efd90e0c7701fc55440f7932673e38ec09d23ba338f035fc91f1981e1af4b3925e7a59533ebe35994404774a38f1d1c27f0cb5a2744f1ebf3df0ad962b50280
   languageName: node
   linkType: hard
 
